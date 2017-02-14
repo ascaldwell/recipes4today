@@ -1,4 +1,4 @@
 # recipes4today
 
 ## To-do List
-- [ ] Create Homepage 
+- [x] Create Homepage 
